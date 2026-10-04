@@ -1,0 +1,7 @@
+{
+  "name": "Lesedi Learn",
+  "description": "Offline-first MPO Programme and CAPS learning app for Ga-Sekororo with DSD attendance tracking and Sepedi support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
